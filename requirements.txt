@@ -1,0 +1,5 @@
+pyusb
+keyboard
+pyautogui
+Pillow
+libusb
